@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="EnterDetails">Submit Details</string>
+  <string name="EnterName">Enter Name</string>
+  <string name="EnterDOB">Enter DOb (dd/mm/yyyy)</string>
+  <string name="EnterPhone">Enter phone</string>
+  <string name="EnterGender">Select gender</string>
+  <string name="GoBack">Enter new details</string>
+  <string name="ApplicationName">Employee App</string>
+</resources>
